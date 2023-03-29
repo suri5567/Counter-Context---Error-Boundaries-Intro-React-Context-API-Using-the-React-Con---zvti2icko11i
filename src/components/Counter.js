@@ -9,4 +9,4 @@ export const Counter = ({value,onClick , id}) =>{
         </div>
         
     )
-}
+    }
