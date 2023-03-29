@@ -16,5 +16,5 @@ export const CounterList = () =>{
             <li><Counter key={2} id="2" value={count} onClick={onClick}/></li>
             <li><Counter key={3} id="3" value={count} onClick={onClick}/></li>
         </ol>
-    )
+)
 }
